@@ -1,0 +1,17 @@
+# ninja log v6
+6	582	7982663298655880	NexusPilotQt_autogen/timestamp	b6b7dc2d8f59b1d5
+6	582	7982663298655880	NexusPilotQt_autogen/mocs_compilation.cpp	b6b7dc2d8f59b1d5
+6	582	7982663298655880	C:/Users/qink/Downloads/NexusPilotQt_ui_refined_v3_status_enhanced_fixed/NexusPilotQt_ui_refined_v3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/NexusPilotQt_autogen/timestamp	b6b7dc2d8f59b1d5
+6	582	7982663298655880	C:/Users/qink/Downloads/NexusPilotQt_ui_refined_v3_status_enhanced_fixed/NexusPilotQt_ui_refined_v3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/NexusPilotQt_autogen/mocs_compilation.cpp	b6b7dc2d8f59b1d5
+615	3169	7982663299499074	CMakeFiles/NexusPilotQt.dir/src/widgets/AttitudeWidget.cpp.obj	7075f997fe3e983c
+591	3170	7982663299341736	CMakeFiles/NexusPilotQt.dir/src/main.cpp.obj	109c09d5018ea370
+609	3181	7982663299499074	CMakeFiles/NexusPilotQt.dir/src/widgets/BatteryWidget.cpp.obj	9aae277ca0681d22
+635	3185	7982663299822186	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/SerialCommunication.cpp.obj	4cdedece7ffa2d35
+645	3192	7982663299915062	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/UdpCommunication.cpp.obj	a6f92ecf8d2e63de
+604	3242	7982663299499074	CMakeFiles/NexusPilotQt.dir/src/widgets/MapWidget.cpp.obj	5fbe0b932dd7386b
+621	3291	7982663299655715	CMakeFiles/NexusPilotQt.dir/src/widgets/CompassWidget.cpp.obj	42c451a17f1656c9
+587	3351	7982663299331347	CMakeFiles/NexusPilotQt.dir/NexusPilotQt_autogen/mocs_compilation.cpp.obj	12bf3bf4e9215d48
+628	3447	7982663299717897	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/ICommunication.cpp.obj	d1809c7ad6d02e03
+596	4218	7982663299388152	CMakeFiles/NexusPilotQt.dir/src/MainWindow.cpp.obj	38ba67ff5ad1f66c
+600	4446	7982663299388152	CMakeFiles/NexusPilotQt.dir/src/backend/BackendAdapter.cpp.obj	91a4f04133d2af39
+4447	4975	7982663337936722	NexusPilotQt.exe	38cc74a923bd98f2

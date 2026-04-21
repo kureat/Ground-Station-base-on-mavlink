@@ -1,0 +1,17 @@
+# ninja log v6
+2	580	7983996304445340	NexusPilotQt_autogen/timestamp	8e3ff4a3a9a45d20
+2	580	7983996304445340	NexusPilotQt_autogen/mocs_compilation.cpp	8e3ff4a3a9a45d20
+2	580	7983996304445340	D:/Code/GroundStation/NexusPilotQt_ui/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/NexusPilotQt_autogen/timestamp	8e3ff4a3a9a45d20
+2	580	7983996304445340	D:/Code/GroundStation/NexusPilotQt_ui/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/NexusPilotQt_autogen/mocs_compilation.cpp	8e3ff4a3a9a45d20
+603	2842	7983996305192372	CMakeFiles/NexusPilotQt.dir/src/widgets/AttitudeWidget.cpp.obj	fdce226ad97f98f7
+597	2879	7983996305119459	CMakeFiles/NexusPilotQt.dir/src/widgets/MapWidget.cpp.obj	53021ab4c8502f82
+586	2917	7983996305024434	CMakeFiles/NexusPilotQt.dir/src/main.cpp.obj	65f8247847e914b3
+621	2926	7983996305366533	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/UdpCommunication.cpp.obj	ed726a98a0d37654
+616	2940	7983996305290948	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/SerialCommunication.cpp.obj	1971dade1a5073d4
+600	2960	7983996305154960	CMakeFiles/NexusPilotQt.dir/src/widgets/BatteryWidget.cpp.obj	48bebfb3a9c36c7b
+608	2960	7983996305192372	CMakeFiles/NexusPilotQt.dir/src/widgets/CompassWidget.cpp.obj	a14bafb56a0f28fb
+583	3057	7983996304993478	CMakeFiles/NexusPilotQt.dir/NexusPilotQt_autogen/mocs_compilation.cpp.obj	26239c3c50580322
+612	3213	7983996305285601	CMakeFiles/NexusPilotQt.dir/third_party/groundstation/source/ICommunication.cpp.obj	eff10a523758967f
+590	3767	7983996305054625	CMakeFiles/NexusPilotQt.dir/src/MainWindow.cpp.obj	d91a1f4e1843f4b0
+593	4019	7983996305091462	CMakeFiles/NexusPilotQt.dir/src/backend/BackendAdapter.cpp.obj	442d2bc81c1520e9
+4019	4575	7983996339352914	NexusPilotQt.exe	9dd20a3196d54bda

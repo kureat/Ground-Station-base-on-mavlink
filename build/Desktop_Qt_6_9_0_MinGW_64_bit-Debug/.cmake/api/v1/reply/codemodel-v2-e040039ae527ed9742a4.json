@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NexusPilotQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NexusPilotQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NexusPilotQt-Debug-6657fa03d89448a024d1.json",
+					"name" : "NexusPilotQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NexusPilotQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NexusPilotQt_autogen-Debug-fbfa23a41d2a93642363.json",
+					"name" : "NexusPilotQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NexusPilotQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NexusPilotQt_autogen_timestamp_deps-Debug-239a11eb75a85ae45f55.json",
+					"name" : "NexusPilotQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/GroundStation/NexusPilotQt_ui/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "D:/Code/GroundStation/NexusPilotQt_ui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
